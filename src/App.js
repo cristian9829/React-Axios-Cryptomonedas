@@ -9,7 +9,7 @@ function App() {
           <img src={imagen} alt="imagen" className="logotipo" />
         </div>
         <div className="one-half column">
-          2
+          
         </div>
       </div>
     </div>
